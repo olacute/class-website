@@ -1,0 +1,32 @@
+body{
+    background-color:#FADFDB;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, seri;
+}
+h1{
+    border-style: double;
+    border-color: #FABFBA;
+    border-width: 10px;
+
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #F77870;
+}
+div{
+    color: #F77870;
+}
+colorbox{
+    width: 2000px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    transition: background-color 1s ease;
+}
